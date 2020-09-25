@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  overflow-y: auto;
+}
+
+.modal-open {
+  overflow: visible !important;
+}
+
+.modal-body {
+  max-height: calc(100vh - 210px);
+  overflow-y: auto;
+}
+
+/*
+.modal-diaglog {
+  overflow-y: auto;
+}
+ */
+/* .navbar {
+  position: fixed;
+  left: 350px;
+  top: 30px;
+} */
